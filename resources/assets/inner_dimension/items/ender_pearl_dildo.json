@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "inner_dimension:item/ender_pearl_dildo",
+    "model": {
+      "type": "geckolib:geckolib"
+    }
+  },
+  "hand_animation_on_swap": false
+}

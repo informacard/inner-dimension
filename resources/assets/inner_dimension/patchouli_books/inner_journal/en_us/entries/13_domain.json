@@ -1,0 +1,29 @@
+{
+  "name": "book.inner_dimension.entry.13_domain",
+  "category": "inner_dimension:domain",
+  "icon": "minecraft:ender_eye",
+  "sortnum": 14,
+  "advancement": "inner_dimension:cursed_core",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.13_domain.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.13_domain.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.13_domain.0_part3"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.13_domain.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.13_domain.others"
+    }
+  ]
+}

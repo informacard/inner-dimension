@@ -1,0 +1,2 @@
+package net.minecraft;
+public class class_1308 extends class_1309 {public class_1309 target,brainTarget;public class_1408 navigation=new class_1408();public class_1309 method_5968(){return target;}public class_1408 method_5942(){return navigation;}public Brain method_18868(){return new Brain();}public class Brain{public java.util.Optional<class_1309> method_46873(Object memory){return java.util.Optional.ofNullable(brainTarget);}}}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "inner_dimension",
+  "version": "2.6.9",
+  "name": "Inner Dimension",
+  "description": "A private inner dimension carried inside your body.",
+  "authors": [
+    "infinitycard"
+  ],
+  "contact": {},
+  "license": "ARR",
+  "icon": "assets/inner_dimension/textures/item/ender_pearl_plug.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.innerdimension.InnerDimension"
+    ],
+    "client": [
+      "com.innerdimension.client.InnerDimensionClient"
+    ],
+    "modmenu": [
+      "com.innerdimension.config.InnerConfigMenu"
+    ]
+  },
+  "mixins": [
+    "inner_dimension.mixins.json"
+  ],
+  "depends": {
+    "fabric-api": "*",
+    "fabricloader": ">=0.18.2",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "trinkets": ">=3.11.3",
+    "needsofnature": ">=1.5.2",
+    "non_player_plushie": ">=1.5.0",
+    "cloth-config": "*",
+    "geckolib": ">=5.4.5 <6",
+    "patchouli": ">=1.21.11-94.4-FABRIC"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

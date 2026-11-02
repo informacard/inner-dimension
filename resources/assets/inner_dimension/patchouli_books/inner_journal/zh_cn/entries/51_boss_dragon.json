@@ -1,0 +1,21 @@
+{
+  "name": "book.inner_dimension.entry.51_boss_dragon",
+  "icon": "minecraft:dragon_head",
+  "category": "inner_dimension:boss_domains",
+  "sortnum": 54,
+  "advancement": "inner_dimension:manual/boss_dragon",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.51_boss_dragon.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.51_boss_dragon.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.51_boss_dragon.2"
+    }
+  ]
+}

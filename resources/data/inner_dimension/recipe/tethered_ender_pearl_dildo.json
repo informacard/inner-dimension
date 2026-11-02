@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "inner_dimension:ender_pearl_dildo",
+    "minecraft:lead",
+    "minecraft:hopper"
+  ],
+  "result": {
+    "count": 1,
+    "id": "inner_dimension:tethered_ender_pearl_dildo"
+  }
+}

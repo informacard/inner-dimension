@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "inner_dimension:item/infector",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": 1381653
+      }
+    ]
+  }
+}

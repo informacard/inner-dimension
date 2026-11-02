@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "inner_dimension:mental_fragment",
+    "minecraft:stick",
+    "inner_dimension:void_fragment"
+  ],
+  "result": {
+    "id": "minecraft:blaze_rod",
+    "count": 1
+  }
+}

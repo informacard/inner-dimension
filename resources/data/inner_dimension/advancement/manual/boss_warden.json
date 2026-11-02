@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "event": {
+      "trigger": "minecraft:impossible"
+    },
+    "killed": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:warden"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "event",
+      "killed"
+    ]
+  ]
+}

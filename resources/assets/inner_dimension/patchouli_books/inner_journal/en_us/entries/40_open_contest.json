@@ -1,0 +1,53 @@
+{
+  "name": "book.inner_dimension.entry.40_open_contest",
+  "icon": "inner_dimension:domain_core",
+  "category": "inner_dimension:open_domain",
+  "sortnum": 46,
+  "advancement": "inner_dimension:manual/open_contest",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.open"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.open_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.closed_first"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.closed_first_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.open_first"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.open_first_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.open_first_part3"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.prepare"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.40_open_contest.after"
+    }
+  ]
+}

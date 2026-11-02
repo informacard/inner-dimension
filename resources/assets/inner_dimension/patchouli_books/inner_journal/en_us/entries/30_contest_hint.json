@@ -1,0 +1,21 @@
+{
+  "name": "book.inner_dimension.entry.30_contest_hint",
+  "icon": "inner_dimension:villager_soul_core",
+  "category": "inner_dimension:other_domains",
+  "sortnum": 33,
+  "advancement": "inner_dimension:manual/contest_hint",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.30_contest_hint.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.30_contest_hint.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.30_contest_hint.1"
+    }
+  ]
+}

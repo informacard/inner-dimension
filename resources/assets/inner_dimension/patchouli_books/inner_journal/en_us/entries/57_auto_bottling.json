@@ -1,0 +1,29 @@
+{
+  "name": "book.inner_dimension.entry.57_auto_bottling",
+  "category": "inner_dimension:imprint",
+  "icon": "inner_dimension:auto_bottling_plug",
+  "sortnum": 23,
+  "advancement": "inner_dimension:imprinting",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.57_auto_bottling.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.57_auto_bottling.1"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:auto_bottling_plug"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.57_auto_bottling.2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.57_auto_bottling.3"
+    }
+  ]
+}

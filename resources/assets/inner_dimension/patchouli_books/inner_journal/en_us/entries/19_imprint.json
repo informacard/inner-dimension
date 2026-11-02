@@ -1,0 +1,37 @@
+{
+  "name": "book.inner_dimension.entry.19_imprint",
+  "category": "inner_dimension:imprint",
+  "icon": "inner_dimension:domain_core",
+  "sortnum": 19,
+  "advancement": "inner_dimension:endurance_training",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.19_imprint.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.19_imprint.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.19_imprint.0_part3"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.19_imprint.0_part4"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.19_imprint.targets"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.19_imprint.targets_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.19_imprint.after"
+    }
+  ]
+}

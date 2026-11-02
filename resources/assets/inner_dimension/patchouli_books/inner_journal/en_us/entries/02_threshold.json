@@ -1,0 +1,29 @@
+{
+  "name": "book.inner_dimension.entry.02_threshold",
+  "category": "inner_dimension:entering",
+  "icon": "inner_dimension:ender_pearl_plug",
+  "sortnum": 2,
+  "advancement": "inner_dimension:in_control",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.02_threshold.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.02_threshold.0_part2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:ender_pearl_plug"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.03_transformation.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.03_transformation.0_part2"
+    }
+  ]
+}

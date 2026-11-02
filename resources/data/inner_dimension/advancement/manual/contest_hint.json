@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "mental_seeding": {
+      "trigger": "minecraft:impossible"
+    },
+    "disciple_slayer": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "mental_seeding"
+    ],
+    [
+      "disciple_slayer"
+    ]
+  ]
+}

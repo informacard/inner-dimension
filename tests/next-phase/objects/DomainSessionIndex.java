@@ -1,0 +1,1 @@
+package com.innerdimension.domain.runtime;import java.util.*;public class DomainSessionIndex {public static List<DomainSession> all=new ArrayList<>();public static List<DomainSession> sessions(){return all;}}

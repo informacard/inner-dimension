@@ -1,0 +1,18 @@
+{
+  "name": "book.inner_dimension.entry.11_passage",
+  "category": "inner_dimension:abyss",
+  "icon": "minecraft:ender_pearl",
+  "sortnum": 12,
+  "advancement": "inner_dimension:lost_passage",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.11_passage.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.11_passage.0_part2"
+    }
+  ],
+  "secret": true
+}

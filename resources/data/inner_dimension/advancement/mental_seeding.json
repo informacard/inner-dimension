@@ -1,0 +1,5 @@
+{
+  "parent":"inner_dimension:imprinting",
+  "display":{"icon":{"id":"inner_dimension:amethyst_navel_piercing"},"title":{"translate":"advancements.inner_dimension.mental_seeding.title"},"description":{"translate":"advancements.inner_dimension.mental_seeding.description"},"frame":"challenge","show_toast":true,"announce_to_chat":true,"hidden":true},
+  "criteria":{"event":{"trigger":"minecraft:impossible"}},"requirements":[["event"]]
+}

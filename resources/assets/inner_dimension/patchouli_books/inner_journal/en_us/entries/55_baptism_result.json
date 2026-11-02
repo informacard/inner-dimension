@@ -1,0 +1,25 @@
+{
+  "name": "book.inner_dimension.entry.55_baptism_result",
+  "icon": "minecraft:elytra",
+  "category": "inner_dimension:unlimited_void",
+  "sortnum": 52,
+  "advancement": "inner_dimension:void_baptism",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.48_baptism.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.48_baptism.1_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.48_baptism.2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.48_baptism.2_part2"
+    }
+  ]
+}

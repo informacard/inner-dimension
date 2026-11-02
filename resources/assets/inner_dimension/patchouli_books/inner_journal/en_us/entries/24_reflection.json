@@ -1,0 +1,21 @@
+{
+  "name": "book.inner_dimension.entry.24_reflection",
+  "category": "inner_dimension:accident",
+  "icon": "inner_dimension:amethyst_navel_piercing",
+  "sortnum": 28,
+  "advancement": "inner_dimension:mental_seeding",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.24_reflection.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.24_reflection.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.24_reflection.growth"
+    }
+  ]
+}

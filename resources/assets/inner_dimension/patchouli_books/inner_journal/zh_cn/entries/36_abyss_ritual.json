@@ -1,0 +1,17 @@
+{
+  "name": "book.inner_dimension.entry.36_abyss_ritual",
+  "icon": "inner_dimension:infector",
+  "category": "inner_dimension:void_exploration",
+  "sortnum": 43,
+  "advancement": "inner_dimension:manual/abyss_ritual",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.36_abyss_ritual.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.36_abyss_ritual.0_part2"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [" U ", "PSP", " N "],
+  "key": {
+    "U": "needsofnature:iron_plug",
+    "P": "minecraft:piston",
+    "S": "minecraft:sponge",
+    "N": "minecraft:iron_ingot"
+  },
+  "result": { "id": "inner_dimension:auto_bottling_plug", "count": 1 }
+}

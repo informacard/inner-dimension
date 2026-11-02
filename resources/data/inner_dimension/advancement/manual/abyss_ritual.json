@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "fallen": {
+      "trigger": "minecraft:impossible"
+    },
+    "infector": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "inner_dimension:infector"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "fallen"
+    ],
+    [
+      "infector"
+    ]
+  ]
+}

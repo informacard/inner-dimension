@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "inner_dimension:void_fragment",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "minecraft:phantom_membrane",
+    "count": 1
+  }
+}

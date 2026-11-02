@@ -1,0 +1,20 @@
+{
+  "name": "book.inner_dimension.entry.56_doll_use",
+  "icon": "non_player_plushie:sensory_link_doll",
+  "category": "inner_dimension:first_steps",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.56_doll_use.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.56_doll_use.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.56_doll_use.0_part3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "void_hint": {
+      "trigger": "minecraft:impossible"
+    },
+    "trial": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "void_hint"
+    ],
+    [
+      "trial"
+    ]
+  ]
+}

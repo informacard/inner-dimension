@@ -1,0 +1,25 @@
+{
+  "name": "book.inner_dimension.entry.53_boss_warden",
+  "icon": "minecraft:sculk_shrieker",
+  "category": "inner_dimension:boss_domains",
+  "sortnum": 56,
+  "advancement": "inner_dimension:manual/boss_warden",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.53_boss_warden.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.53_boss_warden.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.53_boss_warden.2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.53_boss_warden.3"
+    }
+  ]
+}

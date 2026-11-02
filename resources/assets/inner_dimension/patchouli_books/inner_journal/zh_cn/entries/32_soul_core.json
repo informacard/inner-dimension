@@ -1,0 +1,33 @@
+{
+  "name": "book.inner_dimension.entry.32_soul_core",
+  "icon": "inner_dimension:villager_soul_core",
+  "category": "inner_dimension:other_domains",
+  "sortnum": 35,
+  "advancement": "inner_dimension:disciple_slayer",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.32_soul_core.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.32_soul_core.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.32_soul_core.totem"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.32_soul_core.2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:totem_from_mental_fragment"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.32_soul_core.end_hint"
+    }
+  ]
+}

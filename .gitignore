@@ -1,0 +1,9 @@
+build/
+libs/
+*.class
+*.jar
+__pycache__/
+.env*
+*.log
+.idea/
+.vscode/

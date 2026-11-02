@@ -1,0 +1,29 @@
+{
+  "name": "book.inner_dimension.entry.37_open_domain",
+  "icon": "inner_dimension:infector",
+  "category": "inner_dimension:open_domain",
+  "sortnum": 44,
+  "advancement": "inner_dimension:enlightenment",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.37_open_domain.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.37_open_domain.revelation"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.37_open_domain.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.37_open_domain.2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.37_open_domain.2_part2"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "book.inner_dimension.entry.10_failed",
+  "category": "inner_dimension:abyss",
+  "icon": "minecraft:obsidian",
+  "sortnum": 11,
+  "advancement": "inner_dimension:gaze_abyss",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.10_failed.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.10_failed.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.10_failed.1_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.10_failed.1_part3"
+    }
+  ]
+}

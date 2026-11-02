@@ -1,0 +1,21 @@
+{
+  "name": "book.inner_dimension.entry.52_boss_wither",
+  "icon": "minecraft:nether_star",
+  "category": "inner_dimension:boss_domains",
+  "sortnum": 55,
+  "advancement": "inner_dimension:manual/boss_wither",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.52_boss_wither.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.52_boss_wither.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.52_boss_wither.2"
+    }
+  ]
+}

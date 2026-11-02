@@ -1,0 +1,21 @@
+{
+  "name": "book.inner_dimension.entry.34_void_crest",
+  "icon": "inner_dimension:void_fragment",
+  "category": "inner_dimension:void_exploration",
+  "sortnum": 38,
+  "advancement": "inner_dimension:fallen",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.34_void_crest.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.34_void_crest.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.34_void_crest.2"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+import com.innerdimension.config.InnerConfig;import java.nio.file.*;import java.util.*;
+public final class ConfigMigrationRegression {
+ public static void main(String[] args)throws Exception{Path dir=Path.of(args[0]);Files.createDirectories(dir);Path old=dir.resolve("inner_dimension.properties");Files.writeString(old,"roomSize=42\ncrestHudOffsetX=23\n");byte[] original=Files.readAllBytes(old);InnerConfig.load(dir);if(InnerConfig.get().roomSize!=42||InnerConfig.get().crestHudOffsetX!=23)throw new AssertionError("legacy settings lost");if(Files.exists(old)||!Arrays.equals(original,Files.readAllBytes(dir.resolve("inner_dimension/legacy-config.properties.bak"))))throw new AssertionError("migration backup");Files.writeString(old,"roomSize=12");InnerConfig.load(dir);if(InnerConfig.get().roomSize!=42)throw new AssertionError("stale external file still used");System.out.println("PASS: main config migration preserves values and stops using external config");}
+}

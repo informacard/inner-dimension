@@ -1,0 +1,26 @@
+{
+  "name": "book.inner_dimension.entry.08_locks",
+  "category": "inner_dimension:logistics",
+  "icon": "needsofnature:protector_a",
+  "sortnum": 8,
+  "advancement": "inner_dimension:relativity",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.08_locks.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.08_locks.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.08_locks.2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.08_locks.3"
+    }
+  ],
+  "secret": true
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "inner_dimension:cursed_core",
+  "display": {
+    "icon": {
+      "id": "inner_dimension:villager_soul_core"
+    },
+    "title": {
+      "translate": "advancements.inner_dimension.disciple_slayer.title"
+    },
+    "description": {
+      "translate": "advancements.inner_dimension.disciple_slayer.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "event": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "event"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "inner_dimension:block/infector"
+    },
+    "facing=down": {
+      "model": "inner_dimension:block/infector",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "inner_dimension:block/infector",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "inner_dimension:block/infector",
+      "x": 90,
+      "y": 180
+    },
+    "facing=east": {
+      "model": "inner_dimension:block/infector",
+      "x": 90,
+      "y": 90
+    },
+    "facing=west": {
+      "model": "inner_dimension:block/infector",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

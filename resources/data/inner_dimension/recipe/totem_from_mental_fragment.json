@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GFG",
+    "GEG",
+    "GCG"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "F": "inner_dimension:mental_fragment",
+    "E": "minecraft:emerald",
+    "C": "inner_dimension:villager_soul_core"
+  },
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}

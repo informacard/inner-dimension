@@ -1,0 +1,13 @@
+{
+  "name": "book.inner_dimension.entry.18_endurance",
+  "category": "inner_dimension:domain",
+  "icon": "inner_dimension:domain_core",
+  "sortnum": 18,
+  "advancement": "inner_dimension:cursed_core",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.18_endurance.0"
+    }
+  ]
+}

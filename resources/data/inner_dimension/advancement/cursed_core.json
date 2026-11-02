@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "inner_dimension:domain_core"
+    },
+    "title": {
+      "translate": "advancements.inner_dimension.cursed_core.title"
+    },
+    "description": {
+      "translate": "advancements.inner_dimension.cursed_core.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "event": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "event"
+    ]
+  ],
+  "parent": "inner_dimension:touch",
+  "rewards": {
+    "recipes": [
+      "inner_dimension:domain_core"
+    ]
+  }
+}

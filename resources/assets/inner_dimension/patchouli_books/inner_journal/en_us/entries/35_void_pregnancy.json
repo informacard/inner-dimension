@@ -1,0 +1,13 @@
+{
+  "name": "book.inner_dimension.entry.35_void_pregnancy",
+  "icon": "inner_dimension:void_fragment",
+  "category": "inner_dimension:void_exploration",
+  "sortnum": 39,
+  "advancement": "inner_dimension:fallen",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.35_void_pregnancy.0"
+    }
+  ]
+}

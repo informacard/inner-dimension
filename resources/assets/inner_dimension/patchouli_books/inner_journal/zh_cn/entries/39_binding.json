@@ -1,0 +1,21 @@
+{
+  "name": "book.inner_dimension.entry.39_binding",
+  "icon": "inner_dimension:domain_core",
+  "category": "inner_dimension:open_domain",
+  "sortnum": 45,
+  "advancement": "inner_dimension:enlightenment",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.39_binding.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.39_binding.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.39_binding.2"
+    }
+  ]
+}

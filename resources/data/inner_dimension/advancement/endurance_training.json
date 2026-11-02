@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "inner_dimension:domain_core"
+    },
+    "title": {
+      "translate": "advancements.inner_dimension.endurance_training.title"
+    },
+    "description": {
+      "translate": "advancements.inner_dimension.endurance_training.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "event": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "event"
+    ]
+  ],
+  "parent": "inner_dimension:cursed_core"
+}

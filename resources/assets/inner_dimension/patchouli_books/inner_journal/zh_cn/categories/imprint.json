@@ -1,0 +1,6 @@
+{
+  "name": "book.inner_dimension.category.imprint",
+  "description": "book.inner_dimension.category.imprint.description",
+  "icon": "inner_dimension:domain_core",
+  "sortnum": 5
+}

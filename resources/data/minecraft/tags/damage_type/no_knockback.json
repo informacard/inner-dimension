@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "inner_dimension:domain_ground_shock",
+    "inner_dimension:domain_silence",
+    "inner_dimension:domain_feline",
+    "inner_dimension:domain_hoof",
+    "inner_dimension:domain_spit",
+    "inner_dimension:domain_dragon_breath",
+    "inner_dimension:domain_reflected",
+    "inner_dimension:domain_generic",
+    "inner_dimension:domain_freeze",
+    "inner_dimension:domain_void",
+    "inner_dimension:domain_ground_shock_magic",
+    "inner_dimension:domain_spit_magic",
+    "inner_dimension:domain_reflected_magic",
+    "inner_dimension:boss_dragon_breath"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "book.inner_dimension.entry.23_pregnancy",
+  "category": "inner_dimension:accident",
+  "icon": "inner_dimension:amethyst_navel_piercing",
+  "sortnum": 25,
+  "advancement": "inner_dimension:mental_seeding",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.23_pregnancy.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.23_pregnancy.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.23_pregnancy.fetus"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.23_pregnancy.fetus_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.23_pregnancy.fragments"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.23_pregnancy.fragments_part2"
+    }
+  ]
+}

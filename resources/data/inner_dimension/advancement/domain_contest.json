@@ -1,0 +1,28 @@
+{
+  "parent": "inner_dimension:mental_seeding",
+  "display": {
+    "icon": {
+      "id": "inner_dimension:domain_core"
+    },
+    "title": {
+      "translate": "advancements.inner_dimension.domain_contest.title"
+    },
+    "description": {
+      "translate": "advancements.inner_dimension.domain_contest.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "event": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "event"
+    ]
+  ]
+}

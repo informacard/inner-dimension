@@ -1,0 +1,17 @@
+{
+  "name": "book.inner_dimension.entry.58_extractor",
+  "category": "inner_dimension:accident",
+  "icon": "inner_dimension:semen_extractor",
+  "sortnum": 26,
+  "advancement": "inner_dimension:mental_seeding",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.58_extractor.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.58_extractor.0_part2"
+    }
+  ]
+}

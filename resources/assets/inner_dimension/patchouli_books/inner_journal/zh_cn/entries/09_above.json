@@ -1,0 +1,17 @@
+{
+  "name": "book.inner_dimension.entry.09_above",
+  "category": "inner_dimension:abyss",
+  "icon": "inner_dimension:abyss_block",
+  "sortnum": 10,
+  "advancement": "inner_dimension:deepest",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.09_above.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.09_above.0_part2"
+    }
+  ]
+}

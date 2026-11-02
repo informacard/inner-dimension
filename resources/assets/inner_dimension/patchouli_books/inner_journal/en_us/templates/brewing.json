@@ -1,0 +1,69 @@
+{
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "#heading",
+      "x": 58,
+      "y": 0
+    },
+    {
+      "type": "patchouli:separator",
+      "x": 0,
+      "y": 16
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#input",
+      "x": 24,
+      "y": 88,
+      "framed": true,
+      "linkedRecipe": false
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#ingredient",
+      "x": 24,
+      "y": 40,
+      "framed": true,
+      "linkedRecipe": false
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#output",
+      "x": 92,
+      "y": 64,
+      "framed": true,
+      "linkedRecipe": true
+    },
+    {
+      "type": "patchouli:text",
+      "text": "+",
+      "x": 29,
+      "y": 68,
+      "maxWidth": 10
+    },
+    {
+      "type": "patchouli:text",
+      "text": "→",
+      "x": 62,
+      "y": 68,
+      "maxWidth": 16
+    },
+    {
+      "type": "patchouli:item",
+      "item": "minecraft:blaze_powder",
+      "x": 8,
+      "y": 122,
+      "framed": true
+    },
+    {
+      "type": "patchouli:text",
+      "text": {
+        "translate": "book.inner_dimension.brewing.fuel"
+      },
+      "x": 32,
+      "y": 126,
+      "maxWidth": 82
+    }
+  ]
+}

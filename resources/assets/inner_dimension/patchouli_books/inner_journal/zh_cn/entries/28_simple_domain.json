@@ -1,0 +1,25 @@
+{
+  "name": "book.inner_dimension.entry.28_simple_domain",
+  "icon": "inner_dimension:domain_core",
+  "category": "inner_dimension:accident",
+  "sortnum": 31,
+  "advancement": "inner_dimension:simple_domain",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.28_simple_domain.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.28_simple_domain.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.28_simple_domain.1_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.28_simple_domain.1_part3"
+    }
+  ]
+}

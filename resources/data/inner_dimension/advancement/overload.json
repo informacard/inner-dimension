@@ -1,0 +1,5 @@
+{
+  "parent":"inner_dimension:imprinting",
+  "display":{"icon":{"id":"inner_dimension:domain_core"},"title":{"translate":"advancements.inner_dimension.overload.title"},"description":{"translate":"advancements.inner_dimension.overload.description"},"frame":"challenge","show_toast":true,"announce_to_chat":true,"hidden":false},
+  "criteria":{"event":{"trigger":"minecraft:impossible"}},"requirements":[["event"]]
+}

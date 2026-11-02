@@ -1,0 +1,17 @@
+{
+  "name": "book.inner_dimension.entry.33_void_hint",
+  "icon": "non_player_plushie:sensory_link_doll",
+  "category": "inner_dimension:void_exploration",
+  "sortnum": 36,
+  "advancement": "inner_dimension:manual/void_hint",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.33_void_hint.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.33_void_hint.prepare"
+    }
+  ]
+}

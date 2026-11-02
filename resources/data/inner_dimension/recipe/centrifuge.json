@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["IPI", "GBG", "IRI"],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "P": "minecraft:piston",
+    "G": "minecraft:glass",
+    "B": "minecraft:bucket",
+    "R": "minecraft:redstone"
+  },
+  "result": { "id": "inner_dimension:centrifuge", "count": 1 }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "book.inner_dimension.entry.47_void_body",
+  "icon": "inner_dimension:sheathed_infector",
+  "category": "inner_dimension:void_gate",
+  "sortnum": 49,
+  "advancement": "inner_dimension:impalement",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.47_void_body.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.47_void_body.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.47_void_body.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.47_void_body.1_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.47_void_body.2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.47_void_body.2_part2"
+    }
+  ]
+}

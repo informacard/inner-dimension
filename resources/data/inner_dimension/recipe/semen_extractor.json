@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    "FGV",
+    " P "
+  ],
+  "key": {
+    "N": "minecraft:iron_nugget",
+    "F": "inner_dimension:mental_fragment",
+    "G": "minecraft:glass",
+    "P": "minecraft:piston",
+    "V": "inner_dimension:void_fragment"
+  },
+  "result": {
+    "id": "inner_dimension:semen_extractor",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "default",
+  "version": 3,
+  "source": "inner_dimension:textures/crest/default_lewd_crest.png",
+  "layout": "standard_skin",
+  "output_dimensions": [256, 512],
+  "target_rect_256": [84, 112, 24, 16],
+  "target_rect_512": [168, 224, 48, 32]
+}

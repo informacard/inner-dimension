@@ -1,0 +1,38 @@
+{
+  "parent": "inner_dimension:imprinting",
+  "display": {
+    "icon": {
+      "id": "inner_dimension:amethyst_navel_piercing"
+    },
+    "title": {
+      "translate": "advancements.inner_dimension.great_creation.title"
+    },
+    "description": {
+      "translate": "advancements.inner_dimension.great_creation.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "inner_dimension:amethyst_navel_piercing",
+              "inner_dimension:clip_on_amethyst_navel_piercing"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "crafted"
+    ]
+  ]
+}

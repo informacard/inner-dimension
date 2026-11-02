@@ -1,0 +1,331 @@
+{
+  "recharge": {
+    "subtitle": "sound.inner_dimension.recharge",
+    "sounds": [
+      {
+        "name": "inner_dimension:recharge",
+        "stream": false
+      }
+    ]
+  },
+  "void_infect": {
+    "subtitle": "sound.inner_dimension.void_infect",
+    "sounds": [
+      {
+        "name": "inner_dimension:void_infect",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "abyss_passage": {
+    "subtitle": "sound.inner_dimension.abyss_passage",
+    "sounds": [
+      {
+        "name": "inner_dimension:abyss_passage",
+        "stream": false
+      }
+    ]
+  },
+  "void_ambience": {
+    "sounds": [
+      {
+        "name": "inner_dimension:void_ambience",
+        "stream": false
+      }
+    ]
+  },
+  "fetus_pulse": {
+    "sounds": [
+      {
+        "name": "inner_dimension:fetus_pulse",
+        "stream": false,
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "enlightenment": {
+    "subtitle": "sound.inner_dimension.enlightenment",
+    "sounds": [
+      {
+        "name": "inner_dimension:enlightenment",
+        "stream": false
+      }
+    ]
+  },
+  "domain_expand": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_retract": {
+    "subtitle": "sound.inner_dimension.domain_retract",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_retract",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_fracture": {
+    "subtitle": "sound.inner_dimension.domain_fracture",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_fracture",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "injection": {
+    "subtitle": "sound.inner_dimension.injection",
+    "sounds": [
+      {
+        "name": "inner_dimension:injection",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "mental_conception": {
+    "subtitle": "sound.inner_dimension.mental_conception",
+    "sounds": [
+      {
+        "name": "inner_dimension:wet_entry",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "lubricated_entry": {
+    "subtitle": "sound.inner_dimension.lubricated_entry",
+    "sounds": [
+      {
+        "name": "inner_dimension:wet_entry",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_4": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_4",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_8": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_8",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_12": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_12",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_16": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_16",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_20": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_20",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_24": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_24",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_28": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_28",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_32": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_32",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_36": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_36",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_40": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_40",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_44": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_44",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_48": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_48",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_52": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_52",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_56": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_56",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_60": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_60",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_expand_open_64": {
+    "subtitle": "sound.inner_dimension.domain_expand",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_expand_open_64",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "domain_clash": {
+    "subtitle": "sound.inner_dimension.domain_clash",
+    "sounds": [
+      {
+        "name": "inner_dimension:domain_clash",
+        "stream": false,
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "pillar_drone": {
+    "subtitle": "sound.inner_dimension.pillar_drone",
+    "sounds": [
+      {
+        "name": "inner_dimension:pillar_drone",
+        "stream": false
+      }
+    ]
+  },
+  "pillar_leak_top": {
+    "subtitle": "sound.inner_dimension.pillar_leak_top",
+    "sounds": [
+      {
+        "name": "inner_dimension:pillar_leak_top",
+        "stream": false
+      }
+    ]
+  },
+  "pillar_leak_bottom": {
+    "subtitle": "sound.inner_dimension.pillar_leak_bottom",
+    "sounds": [
+      {
+        "name": "inner_dimension:pillar_leak_bottom",
+        "stream": false
+      }
+    ]
+  },
+  "void_rewind": {
+    "subtitle": "sound.inner_dimension.void_rewind",
+    "sounds": [
+      {
+        "name": "inner_dimension:void_rewind",
+        "stream": false
+      }
+    ]
+  },
+  "information_ring": {
+    "subtitle": "sound.inner_dimension.information_ring",
+    "sounds": [
+      {
+        "name": "inner_dimension:information_ring",
+        "stream": false
+      }
+    ]
+  }
+}

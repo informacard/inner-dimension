@@ -1,0 +1,25 @@
+{
+  "name": "book.inner_dimension.entry.01_signs",
+  "category": "inner_dimension:first_steps",
+  "icon": "non_player_plushie:sensory_link_doll",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.01_signs.0"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "non_player_plushie:sensory_link_doll",
+      "text": "book.inner_dimension.doll_note"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "non_player_plushie:sensation_core"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "non_player_plushie:sensory_link_doll"
+    }
+  ]
+}

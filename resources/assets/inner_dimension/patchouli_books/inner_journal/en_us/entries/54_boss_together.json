@@ -1,0 +1,22 @@
+{
+  "name": "book.inner_dimension.entry.54_boss_together",
+  "icon": "inner_dimension:domain_core",
+  "category": "inner_dimension:boss_domains",
+  "sortnum": 57,
+  "advancement": "inner_dimension:manual/boss_together",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.54_boss_together.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.54_boss_together.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.54_boss_together.1_part2"
+    }
+  ],
+  "secret": true
+}

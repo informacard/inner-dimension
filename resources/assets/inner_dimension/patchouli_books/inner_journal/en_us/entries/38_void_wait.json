@@ -1,0 +1,33 @@
+{
+  "name": "book.inner_dimension.entry.38_void_wait",
+  "icon": "non_player_plushie:sensory_link_doll",
+  "category": "inner_dimension:void_exploration",
+  "sortnum": 37,
+  "advancement": "inner_dimension:manual/void_wait",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.38_void_wait.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.38_void_wait.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.38_void_wait.1_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.38_void_wait.1_part3"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.38_void_wait.1_part4"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.38_void_wait.2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VVV",
+    "VEV",
+    "VVV"
+  ],
+  "key": {
+    "V": "inner_dimension:void_fragment",
+    "E": "minecraft:end_rod"
+  },
+  "result": {
+    "id": "inner_dimension:infector",
+    "count": 1
+  }
+}

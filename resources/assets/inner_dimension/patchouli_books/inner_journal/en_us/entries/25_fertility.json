@@ -1,0 +1,26 @@
+{
+  "name": "book.inner_dimension.entry.25_fertility",
+  "category": "inner_dimension:imprint",
+  "icon": "minecraft:brewing_stand",
+  "sortnum": 24,
+  "advancement": "inner_dimension:imprinting",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.25_fertility.0"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "needsofnature:fertile_nectar"
+    },
+    {
+      "type": "inner_dimension:brewing",
+      "heading": {
+        "translate": "item.minecraft.potion.effect.needsofnature.fertility_increaser"
+      },
+      "input": "minecraft:potion[minecraft:potion_contents={potion:\"needsofnature:fertile_nectar\"}]",
+      "ingredient": "minecraft:egg",
+      "output": "minecraft:potion[minecraft:potion_contents={potion:\"needsofnature:fertility_increaser\"}]"
+    }
+  ]
+}

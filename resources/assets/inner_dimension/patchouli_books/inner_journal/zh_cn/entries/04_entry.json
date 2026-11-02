@@ -1,0 +1,21 @@
+{
+  "name": "book.inner_dimension.entry.04_entry",
+  "category": "inner_dimension:entering",
+  "icon": "inner_dimension:ender_pearl_dildo",
+  "sortnum": 3,
+  "advancement": "inner_dimension:transformation",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.04_entry.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.04_entry.0_part2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:ender_pearl_dildo"
+    }
+  ]
+}

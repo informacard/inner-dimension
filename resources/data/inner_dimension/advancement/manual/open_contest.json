@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "enlightenment": {
+      "trigger": "minecraft:impossible"
+    },
+    "domain_contest": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "enlightenment"
+    ],
+    [
+      "domain_contest"
+    ]
+  ]
+}

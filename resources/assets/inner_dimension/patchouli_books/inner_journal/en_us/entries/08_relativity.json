@@ -1,0 +1,18 @@
+{
+  "name": "book.inner_dimension.entry.08_relativity",
+  "category": "inner_dimension:logistics",
+  "icon": "minecraft:piston",
+  "sortnum": 7,
+  "advancement": "inner_dimension:relativity",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.08_relativity.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.08_relativity.0_part2"
+    }
+  ],
+  "secret": true
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "inner_dimension:domain_contest",
+  "display": {
+    "icon": {
+      "id": "minecraft:purple_dye"
+    },
+    "title": {
+      "translate": "advancements.inner_dimension.shinjuku_showdown.title"
+    },
+    "description": {
+      "translate": "advancements.inner_dimension.shinjuku_showdown.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "event": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "event"
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "inner_dimension:inner",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "inner_dimension:inner",
+      "features": false,
+      "lakes": false,
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}

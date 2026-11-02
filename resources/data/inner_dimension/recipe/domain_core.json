@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "non_player_plushie:sensation_core",
+    "minecraft:obsidian"
+  ],
+  "result": {
+    "id": "inner_dimension:domain_core",
+    "count": 1
+  }
+}

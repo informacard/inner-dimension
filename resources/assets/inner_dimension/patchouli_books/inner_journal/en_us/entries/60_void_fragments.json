@@ -1,0 +1,29 @@
+{
+  "name": "book.inner_dimension.entry.60_void_fragments",
+  "category": "inner_dimension:void_exploration",
+  "icon": "inner_dimension:void_fragment",
+  "sortnum": 41,
+  "advancement": "inner_dimension:manual/void_fragment_obtained",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.60_void_fragments.0"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:phantom_membrane_from_void_fragment"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.60_void_fragments.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.60_void_fragments.1_part2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:blaze_rod_from_fragments"
+    }
+  ]
+}

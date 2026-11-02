@@ -1,0 +1,21 @@
+{
+  "name": "book.inner_dimension.entry.49_void_nail",
+  "icon": "inner_dimension:void_nail",
+  "category": "inner_dimension:void_gate",
+  "sortnum": 51,
+  "advancement": "inner_dimension:enlightenment",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.49_void_nail.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.49_void_nail.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.49_void_nail.2"
+    }
+  ]
+}

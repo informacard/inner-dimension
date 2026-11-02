@@ -1,0 +1,17 @@
+{
+  "name": "book.inner_dimension.entry.21_navel",
+  "category": "inner_dimension:imprint",
+  "icon": "inner_dimension:amethyst_navel_piercing",
+  "sortnum": 21,
+  "advancement": "inner_dimension:great_creation",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.21_navel.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.21_navel.0_part2"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "inner_dimension:sticky_ender_pearl_plug",
+    "L": "minecraft:leather",
+    "I": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    " S ",
+    " L ",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "inner_dimension:ender_pearl_dildo"
+  }
+}

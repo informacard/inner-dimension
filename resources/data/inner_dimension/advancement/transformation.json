@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "inner_dimension:sticky_ender_pearl_plug"
+    },
+    "title": {
+      "translate": "advancements.inner_dimension.transformation.title"
+    },
+    "description": {
+      "translate": "advancements.inner_dimension.transformation.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "event": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "event"
+    ]
+  ],
+  "parent": "inner_dimension:bold_idea"
+}

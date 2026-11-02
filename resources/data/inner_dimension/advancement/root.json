@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "inner_dimension:tethered_ender_pearl_dildo"
+    },
+    "title": {
+      "translate": "advancements.inner_dimension.root.title"
+    },
+    "description": {
+      "translate": "advancements.inner_dimension.root.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:block/obsidian"
+  },
+  "criteria": {
+    "event": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "event"
+    ]
+  ],
+  "rewards": {
+    "loot": [
+      "inner_dimension:inner_journal"
+    ]
+  }
+}

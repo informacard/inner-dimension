@@ -1,0 +1,25 @@
+{
+  "name": "book.inner_dimension.entry.15_purification",
+  "category": "inner_dimension:logistics",
+  "icon": "inner_dimension:centrifuge",
+  "sortnum": 9,
+  "advancement": "inner_dimension:transformation",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.15_purification.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.15_purification.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.15_purification.0_part3"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:centrifuge"
+    }
+  ]
+}

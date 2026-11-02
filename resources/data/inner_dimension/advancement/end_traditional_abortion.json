@@ -1,0 +1,28 @@
+{
+  "parent": "inner_dimension:suicide_king_ii",
+  "display": {
+    "icon": {
+      "id": "inner_dimension:void_fragment"
+    },
+    "title": {
+      "translate": "advancements.inner_dimension.end_traditional_abortion.title"
+    },
+    "description": {
+      "translate": "advancements.inner_dimension.end_traditional_abortion.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "event": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "event"
+    ]
+  ]
+}

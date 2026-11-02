@@ -1,0 +1,17 @@
+{
+  "name": "book.inner_dimension.entry.12_touch",
+  "category": "inner_dimension:abyss",
+  "icon": "minecraft:ender_eye",
+  "sortnum": 13,
+  "advancement": "inner_dimension:touch",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.12_touch.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.12_touch.0_part2"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "book.inner_dimension.entry.22_overload",
+  "category": "inner_dimension:imprint",
+  "icon": "inner_dimension:domain_core",
+  "sortnum": 22,
+  "advancement": "inner_dimension:overload",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.22_overload.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.22_overload.0_part2"
+    }
+  ]
+}

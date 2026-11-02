@@ -1,0 +1,25 @@
+{
+  "name": "book.inner_dimension.entry.20_traits",
+  "category": "inner_dimension:imprint",
+  "icon": "inner_dimension:domain_core",
+  "sortnum": 20,
+  "advancement": "inner_dimension:imprinting",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.20_traits.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.20_traits.0_part2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:amethyst_navel_piercing"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:clip_on_amethyst_navel_piercing"
+    }
+  ]
+}

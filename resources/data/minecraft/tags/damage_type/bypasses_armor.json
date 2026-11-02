@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "inner_dimension:domain_void",
+    "inner_dimension:domain_ground_shock_magic",
+    "inner_dimension:domain_spit_magic",
+    "inner_dimension:domain_reflected_magic",
+    "inner_dimension:domain_dragon_breath",
+    "inner_dimension:boss_dragon_breath",
+    "inner_dimension:boss_sonic_boom"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "book.inner_dimension.entry.61_extractor_complete",
+  "icon": "inner_dimension:semen_extractor",
+  "advancement": "inner_dimension:manual/void_fragment_obtained",
+  "category": "inner_dimension:void_exploration",
+  "sortnum": 42,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.58_extractor.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.58_extractor.1_part2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:semen_extractor"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.58_extractor.2"
+    }
+  ]
+}

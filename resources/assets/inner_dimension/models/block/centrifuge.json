@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "inner_dimension:block/centrifuge_side",
+    "down": "inner_dimension:block/centrifuge_bottom",
+    "up": "inner_dimension:block/centrifuge_top",
+    "north": "inner_dimension:block/centrifuge_front",
+    "south": "inner_dimension:block/centrifuge_side",
+    "west": "inner_dimension:block/centrifuge_side",
+    "east": "inner_dimension:block/centrifuge_side"
+  }
+}

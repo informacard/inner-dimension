@@ -1,0 +1,17 @@
+{
+  "name": "book.inner_dimension.entry.29_villager_ritual",
+  "icon": "inner_dimension:amethyst_navel_piercing",
+  "category": "inner_dimension:other_domains",
+  "sortnum": 32,
+  "advancement": "inner_dimension:mental_seeding",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.29_villager_ritual.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.29_villager_ritual.1"
+    }
+  ]
+}

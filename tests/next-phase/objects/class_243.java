@@ -1,0 +1,2 @@
+package net.minecraft;
+public class class_243 {public double x,y,z;public class_243(double x,double y,double z){this.x=x;this.y=y;this.z=z;}public double method_1025(class_243 p){return (x-p.x)*(x-p.x)+(y-p.y)*(y-p.y)+(z-p.z)*(z-p.z);}}

@@ -1,0 +1,17 @@
+{
+  "name": "book.inner_dimension.entry.48_baptism",
+  "icon": "inner_dimension:sheathed_infector",
+  "category": "inner_dimension:void_gate",
+  "sortnum": 50,
+  "advancement": "inner_dimension:impalement",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.48_baptism.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.48_baptism.0_part2"
+    }
+  ]
+}

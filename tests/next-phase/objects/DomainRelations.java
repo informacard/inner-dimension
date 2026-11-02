@@ -1,0 +1,1 @@
+package com.innerdimension.domain.runtime;import net.minecraft.*;public class DomainRelations {public enum Relation{SELF,ALLY,NEUTRAL,ENEMY,BOSS}public static Relation of(DomainSession s,class_1297 e){return e.id.equals(s.ownerId)?Relation.SELF:Relation.values()[e.relation];}}

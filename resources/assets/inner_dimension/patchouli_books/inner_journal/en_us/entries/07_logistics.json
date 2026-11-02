@@ -1,0 +1,46 @@
+{
+  "name": "book.inner_dimension.entry.07_logistics",
+  "category": "inner_dimension:logistics",
+  "icon": "minecraft:hopper",
+  "sortnum": 6,
+  "advancement": "inner_dimension:deepest",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.07_logistics.0"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "book.inner_dimension.input_layout",
+      "images": [
+        "inner_dimension:textures/gui/guide/input_layout.png"
+      ],
+      "border": true,
+      "text": "book.inner_dimension.input_layout_note"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.07_logistics.1"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "book.inner_dimension.output_layout",
+      "images": [
+        "inner_dimension:textures/gui/guide/output_layout.png"
+      ],
+      "border": true,
+      "text": "book.inner_dimension.output_layout_note"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.07_logistics.2"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "inner_dimension:textures/gui/guide/piston.png"
+      ],
+      "border": true
+    }
+  ]
+}

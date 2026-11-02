@@ -1,0 +1,2 @@
+package net.minecraft;
+public class class_1297 {public java.util.UUID id=java.util.UUID.randomUUID();public boolean inside=true,spectator,alive=true;public int relation=2;public double x,y,z;public java.util.UUID method_5667(){return id;}public boolean method_5805(){return alive;}public boolean method_7325(){return spectator;}public class_243 method_33571(){return new class_243(x,y,z);}public double method_23317(){return x;}public double method_23318(){return y;}public double method_23321(){return z;}}

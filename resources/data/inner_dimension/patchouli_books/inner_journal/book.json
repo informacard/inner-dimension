@@ -1,0 +1,15 @@
+{
+  "name": "book.inner_dimension.name",
+  "landing_text": "book.inner_dimension.landing",
+  "subtitle": "book.inner_dimension.subtitle",
+  "version": "0",
+  "use_resource_pack": true,
+  "i18n": true,
+  "use_blocky_font": true,
+  "book_texture": "patchouli:textures/gui/book_purple.png",
+  "model": "inner_dimension:inner_journal",
+  "creative_tab": "inner_dimension:main",
+  "advancements_tab": "inner_dimension:root",
+  "show_progress": true,
+  "text_overflow_mode": "resize"
+}

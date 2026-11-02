@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "entered_end": {
+      "trigger": "minecraft:impossible"
+    },
+    "mental_seeding": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "entered_end"
+    ],
+    [
+      "mental_seeding"
+    ]
+  ]
+}

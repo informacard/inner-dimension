@@ -1,0 +1,39 @@
+{
+  "name": "book.inner_dimension.entry.06_tether",
+  "category": "inner_dimension:logistics",
+  "icon": "inner_dimension:tethered_ender_pearl_dildo",
+  "sortnum": 5,
+  "advancement": "inner_dimension:deepest",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.06_tether.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.06_tether.0_part2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "inner_dimension:tethered_ender_pearl_dildo"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.06_tether.1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.06_tether.1_part2"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "inner_dimension:tethered_ender_pearl_dildo",
+      "scale": 0.8
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "inner_dimension:sensory_link_doll",
+      "scale": 0.7
+    }
+  ]
+}

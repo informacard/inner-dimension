@@ -1,0 +1,21 @@
+{
+  "name": "book.inner_dimension.entry.05_room",
+  "category": "inner_dimension:entering",
+  "icon": "inner_dimension:pearl_face",
+  "sortnum": 4,
+  "advancement": "inner_dimension:deepest",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.05_room.0"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.05_room.0_part2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "book.inner_dimension.05_room.1"
+    }
+  ]
+}
